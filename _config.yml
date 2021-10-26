@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://a2hc.github.io/a2hc.website/"
+baseurl: "/a2hc.website"
+url: "https://a2hc.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Agents Applied to Healthcare website                                    # site's title
