@@ -3,13 +3,13 @@ baseurl: "/a2hc.website"
 url: "https://a2hc.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Agents Applied to Healthcare (A2HC)                                    # site's title
+title: Agents Applied to Healthcare (A2HC) website                                   # site's title
 description: "Reference website for the workshop series Agents Applied to Healthcare (A2HC)"      # used by search engines
 avatar: assets/img/logo-img.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Welcome to A2HC website  # Change Blog header text
+header_text: Welcome to A2HC blog!  # Change Blog header text
 header_feature_image: assets/img/banner-reduced.png
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -54,3 +54,5 @@ exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+
+# custom stuff

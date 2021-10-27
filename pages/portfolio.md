@@ -1,10 +1,10 @@
 --- 
 layout: page
 title : Publications 
-permalink: /portfolio/
-subtitle: "Publications worth checking on the subject" 
-feature-img: "assets/img/pexels/book-glass.jpeg"
-tags: [Page]
+permalink: /publications/
+subtitle: "Publications worth checking related to A2HC" 
+feature-img: "assets/img/banner-reduced.png"
+tags: [publications, articles, documents, talks, a2hc]
 ---
 
 {% include portfolio.html %}
