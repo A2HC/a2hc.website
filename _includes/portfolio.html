@@ -2,6 +2,7 @@
 <div class="portfolio-grid">
     {% for item in site.portfolio %}
     <div class="portfolio-cell">
+        <div style="text-align:center;"><em>{{ item.authors }}</em></div>
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
             <div class="caption" title="{{ item.title }}">
                 <div class="caption-content">
@@ -9,7 +10,9 @@
                 </div>
             </div>
             <img alt="" class="" src="{{ item.img | relative_url }}">
+            <div style="text-align:center;">{{ item.title }}</div>
         </a>
+        <div style="text-align:center;">({{ item.venue }})</div>
     </div>
     {% endfor %}
 </div>

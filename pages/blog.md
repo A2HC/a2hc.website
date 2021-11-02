@@ -1,11 +1,11 @@
 ---
 layout: page
-title: People
-subtitle: Who runs the website and workshops
-permalink: /people/
+title: "The blog"
+subtitle: A2HC related news
+permalink: /blog/
 feature-img: "assets/img/banner-reduced.png"
-tags: [about, a2hc, people, contacts]
-order: 2
+tags: [blog, a2hc, news]
+order: 1
 ---
 
 > ⚠️ This page is a **work in progress**: check back soon!

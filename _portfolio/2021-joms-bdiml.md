@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Augmenting BDI Agency with a Cognitive Service : Architecture and Validation in Healthcare Domain"
+title: "Augmenting BDI Agency with a Cognitive Service: Architecture and Validation in Healthcare Domain"
+authors: "Sara Montagna, Stefano Mariani, Emiliano Gamberini "
+venue: "Springer Journal of Medical Systems"
 feature-img: "assets/img/portfolio/BDI-ML-arch-generic-dark.png"
 img: "assets/img/portfolio/BDI-ML-arch-generic.png"
 date: 22 October 2021
