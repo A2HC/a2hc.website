@@ -1,11 +1,10 @@
 ---
 layout: page
+title: "🤖 WELCOME TO A2HC! 👋"
 hide: true
 permalink: /
 feature-img: "assets/img/banner-reduced.png"
 ---
-
-# 🤖 WELCOME TO A2HC! 👋
 
 Agents Applied to Healthcare is a workshops series now going on since several years
 (see [workshop editions](/a2hc.website/workshops/) page),
