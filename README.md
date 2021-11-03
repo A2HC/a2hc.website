@@ -1,9 +1,9 @@
 # Usage
 
-  + put publications in `portfolio` folder
+  + put publications in `_portfolio` folder
   + put posts in `_posts` folder
   + copy layout from existing pages
-  + fill out `authors.yml` within `data` folder
+  + fill out `authors.yml` within `_data` folder
 
 ...work in progress...
 
