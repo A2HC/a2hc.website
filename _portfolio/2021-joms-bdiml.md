@@ -5,6 +5,7 @@ authors: "Sara Montagna, Stefano Mariani, Emiliano Gamberini "
 venue: "Springer Journal of Medical Systems"
 feature-img: "assets/img/portfolio/BDI-ML-arch-generic-dark.png"
 img: "assets/img/portfolio/BDI-ML-arch-generic.png"
+thumbnail: "assets/img/portfolio/BDI-ML-arch-generic.png"
 date: 22 October 2021
 tags: [personal medical digital assistant, trauma management, cognitive services, BDI, machine learning, article, joms, Springer]
 ---
@@ -23,5 +24,5 @@ endowed with predefined plans encoding experts' knowledge,
 with a Cognitive Service, trained on past observed data, 
 can enhance trauma management by reducing over triage episodes.
 
-[Read the full paper on JOMS](https://doi.org/10.1007/s10916-021-01780-1) 
-or [request to authors a pre-print copy](mailto:stefano.mariani@unimore.it) 😉
+👀 📄 [Read the full paper on JOMS](https://doi.org/10.1007/s10916-021-01780-1) 
+or [request to authors a pre-print copy](mailto:stefano.mariani@unimore.it) 📬 😉

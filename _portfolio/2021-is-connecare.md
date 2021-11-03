@@ -5,6 +5,7 @@ authors: "Stefano Mariani, Esther Metting, Maarten M. H. Lahr, Eloisa Vargiu, Fr
 venue: "Wiley International Journal of Intelligent Systems"
 feature-img: "assets/img/portfolio/pipeline001-dark.png"
 img: "assets/img/portfolio/pipeline001.png"
+thumbnail: "assets/img/portfolio/pipeline001.png"
 date: 21 July 2021
 tags: [connecare, asthma, COPD, diagnosis, machine learning, prediction, primary care, treatment, article, International Journal of Intelligent Systems, Wiley]
 ---
@@ -24,5 +25,5 @@ and provide a **performance comparison** of different prediction models for
 (ii) designing interventions, 
 and (iii) defining the diagnosis.
 
-[Read the full paper on IJIS](https://doi.org/10.1002/int.22568)
-or [request to authors a pre-print copy](mailto:stefano.mariani@unimore.it) 😉
+👀 📄 [Read the full paper on IJIS](https://doi.org/10.1002/int.22568)
+or [request to authors a pre-print copy](mailto:stefano.mariani@unimore.it) 📬 😉
