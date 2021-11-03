@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 permalink: /
 feature-img: "assets/img/banner-reduced.png"
 ---
