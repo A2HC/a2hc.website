@@ -17,7 +17,7 @@ bootstrap: true
 <br />
 <br />
 
-[Sara Montagna](https://www.uniurb.it/persone/sara-montagna) is ...
+[Sara Montagna](https://www.uniurb.it/persone/sara-montagna) is a Senior Lecturer at the University of Urbino Carlo Bo. She is working in between biology and computer science (BIO-ICT convergence) studying the application of techniques devised in computer science -- such as agent-based modeling and simulation, Boolean Networks, Cognitive Computing algorithms -- to analyzing and engineer complex bio/healthcare scenarios. She got her M.S. degree in biomedical engineering in January 2007 (110/110 cum Laude) and her Ph.D. degree in Computer Science in April 2011. 
 
 <br />
 <br />
