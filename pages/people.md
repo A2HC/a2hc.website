@@ -17,7 +17,7 @@ bootstrap: true
 <br />
 <br />
 
-[Sara Montagna](https://www.uniurb.it/persone/sara-montagna) is ...
+[Sara Montagna](https://www.uniurb.it/persone/sara-montagna) is a Senior Lecturer at the University of Urbino Carlo Bo. 
 
 <br />
 <br />
