@@ -11,6 +11,10 @@ bootstrap: true
 
 > ⚠️ This page is a **work in progress**: check back soon!
 
+<br />
+<br />
+<br />
+
 [![Sara Montagna]({{ "/assets/img/people/sara-montagna.jpeg" | relative_url}}){: style="float: left"}{:height="35%" width="35%"}](https://www.uniurb.it/persone/sara-montagna)
 
 <br />
