@@ -48,4 +48,14 @@ after a 3 years experience in the successful [CONNECARE](https://www.connecare.e
 
 <br />
 
-[Gaetano Manzo](https://www.linkedin.com/in/gaetano-manzo/) is an Applied Machine Learning Researcher at University of Applied Sciences and Arts Western Switzerland Valais (HES-SO Valais-Wallis). His main research interests are **machine learning** systems for personalized behavior changes, AI-based **persuasive technologies**, and cancer patients **cohort and trajectories analysis** . He is currently working on Patients-centered SurvivorShIp care plan after Cancer treatments based on Big Data and Artificial Intelligence technologies [PERSIST] (https://cordis.europa.eu/project/id/875406) EU project.
+[Gaetano Manzo](https://www.linkedin.com/in/gaetano-manzo/) is an Applied Machine Learning Researcher at University of Applied Sciences and Arts Western Switzerland Valais (HES-SO Valais-Wallis). His main research interests are **machine learning** systems for personalized behavior changes, AI-based **persuasive technologies**, and cancer patients **cohort and trajectories analysis** . He is currently working on Patients-centered SurvivorShIp care plan after Cancer treatments based on Big Data and Artificial Intelligence technologies [PERSIST](https://cordis.europa.eu/project/id/875406) EU project.
+
+<br />
+<br />
+<br />
+
+[![Michael Ignaz Schumacher]({{ "/assets/img/people/michael-schumacher.jpg"|relative_url}}){: style="float: left"}{:height="35%" width="35%"}](https://www.hevs.ch/en/rad-institutes/institute-of-information-systems/collaborateurs/professor-uas/schumacher-1800)
+
+<br />
+
+[Michael Ignaz Schumacher](https://www.hevs.ch/en/rad-institutes/institute-of-information-systems/collaborateurs/professor-uas/schumacher-1800) Prof. Michael Ignaz Schumacher has been a full Professor in the Institute of Business Information Systems at the University of Applied Sciences Western Switzerland (HES-SO) since 2007. Previously, he held positions at the Swiss Federal Institute of Technology Lausanne (EPFL), where he was responsible for the FP6 European project CASCOM, and at the Robotics Institute in Carnegie Mellon University in Pittsburgh (USA) as a visiting researcher. He has worked in project management in an international Swiss foundation committed in social investment. He holds a PhD and a MsC in computer science from the University of Fribourg in Switzerland. Schumacher’s research focuses on **distributed information systems and artificial intelligence applied to healthcare**.
