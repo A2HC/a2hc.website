@@ -38,4 +38,10 @@ and *decision support* in healthcare.
 He joined A2HC organising committee in 2019,
 after a 3 years experience in the successful [CONNECARE](https://www.connecare.eu) EU project.
 
-[Gaetano Manzo]
+<br />
+<br />
+<br />
+
+[![Gaetano Manzo]({{ "/assets/img/people/gaetano-manzo.jpg"|relative_url}}){: style="float: left"}{:height="35%" width="35%"}](https://www.linkedin.com/in/gaetano-manzo/)
+
+<br />
