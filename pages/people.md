@@ -45,3 +45,5 @@ after a 3 years experience in the successful [CONNECARE](https://www.connecare.e
 [![Gaetano Manzo]({{ "/assets/img/people/gaetano-manzo.jpg"|relative_url}}){: style="float: left"}{:height="35%" width="35%"}](https://www.linkedin.com/in/gaetano-manzo/)
 
 <br />
+
+[Gaetano Manzo](https://www.linkedin.com/in/gaetano-manzo/) is an Applied Machine Learning Researcher at University of Applied Sciences and Arts Western Switzerland Valais (HES-SO Valais-Wallis). His main research interests are **machine learning** systems for personalized behavior changes, AI-based **persuasive technologies**, and cancer patients **cohort and trajectories analysis** . He is currently working on Patients-centered SurvivorShIp care plan after Cancer treatments based on Big Data and Artificial Intelligence technologies [PERSIST] (https://cordis.europa.eu/project/id/875406) EU project.
