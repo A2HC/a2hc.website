@@ -7,6 +7,7 @@ feature-img: "assets/img/portfolio/BDI-ML-arch-generic-dark.png"
 img: "assets/img/portfolio/BDI-ML-arch-generic.png"
 thumbnail: "assets/img/portfolio/BDI-ML-arch-generic.png"
 date: 22 October 2021
+order: 20211022
 tags: [personal medical digital assistant, trauma management, cognitive services, BDI, machine learning, article, joms, Springer]
 ---
 

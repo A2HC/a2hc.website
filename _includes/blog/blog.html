@@ -26,6 +26,9 @@
                      {{ post.content | strip_html | truncate: '250' | escape }}
                   {% else %}
                      {{ post.excerpt | strip_html | escape }}
+                     {% if post.excerpt != post.content %}
+                        <a href="{{ site.baseurl }}{{ post.url }}"> ...[read more]... </a>
+                     {% endif %}
                   {% endif %}
               </div>
           {% endif %}

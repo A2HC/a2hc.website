@@ -7,6 +7,7 @@ feature-img: "assets/img/portfolio/pipeline001-dark.png"
 img: "assets/img/portfolio/pipeline001.png"
 thumbnail: "assets/img/portfolio/pipeline001.png"
 date: 21 July 2021
+order: 20210721
 tags: [connecare, asthma, COPD, diagnosis, machine learning, prediction, primary care, treatment, article, International Journal of Intelligent Systems, Wiley]
 ---
 

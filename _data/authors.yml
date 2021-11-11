@@ -8,5 +8,9 @@ sm:
   url: "https://www.uniurb.it/persone/sara-montagna"
 gm:
   name: "Gaetano Manzo"
-  avatar: ""
-  url: ""
+  avatar: "assets/img/people/gaetano-manzo.jpg"
+  url: "https://www.linkedin.com/in/gaetano-manzo/"
+ms:
+  name: "Michael Ignaz Schumacher"
+  avatar: "assets/img/people/michael-schumacher.jpg"
+  url: "https://www.hevs.ch/en/rad-institutes/institute-of-information-systems/collaborateurs/professor-uas/schumacher-1800"

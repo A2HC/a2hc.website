@@ -1,6 +1,7 @@
 <!-- Portfolio Grid Section -->
 <div class="portfolio-grid">
-    {% for item in site.portfolio %}
+    {% assign sorted_items = site.portfolio | sort:"order" | reverse %}
+    {% for item in sorted_items %}
     <div class="portfolio-cell">
         <div style="text-align:center;"><em>{{ item.authors }}</em></div>
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
