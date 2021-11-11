@@ -3,9 +3,9 @@ layout: post
 title: "On the Integration of Agents and Digital Twins in Healthcare"
 authors: "Angelo Croatti, Matteo Gabellini, Sara Montagna and Alessandro Ricci "
 venue: "Journal of Medical Systems"
-feature-img: "assets/img/portfolio/dt.png"
-img: "assets/img/portfolio/dt.png"
-thumbnail: "assets/img/portfolio/dt.png"
+feature-img: "assets/img/portfolio/dt-new.png"
+img: "assets/img/portfolio/dt-new.png"
+thumbnail: "assets/img/portfolio/dt-new.png"
 date: 4 August 2020
 order: 20200804
 tags: [digital twin, healthcare, agent-based systems]
