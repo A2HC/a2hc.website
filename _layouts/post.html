@@ -8,7 +8,11 @@ layout: default
       <div class="feature-image-padding"></div>
       {% else %}
       <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
-      {% include blog/post_info.html author=page.author date=page.date %}
+      {% if page.authors %}
+        {% include portfolio_info.html author=page.authors date=page.date %}
+      {% else %}
+        {% include blog/post_info.html author=page.author date=page.date %}
+      {% endif %}
       {% endif %}
     </div>
   </header>
