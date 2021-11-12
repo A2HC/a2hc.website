@@ -3,9 +3,9 @@ layout: post
 title: "BDI personal medical assistant agents: The case of trauma tracking and alerting"
 authors: "Angelo Croatti, Sara Montagna, Alessandro Ricci, Emiliano Gamberini, Vittorio Albarello, Vanni Agnoletti"
 venue: "Artificial Intelligence in Medicine"
-feature-img: "assets/img/portfolio/dt-new.png"
-img: "assets/img/portfolio/dt-new.png"
-thumbnail: "assets/img/portfolio/dt-new.png"
+feature-img: "assets/img/portfolio/bdi.png"
+img: "assets/img/portfolio/bdi.png"
+thumbnail: "assets/img/portfolio/bdi.png"
 date: 1 May 2019
 order: 20190501
 tags: [bdi, trauma tracker, agent-based systems]
