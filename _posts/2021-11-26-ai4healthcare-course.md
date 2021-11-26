@@ -31,7 +31,10 @@ and gives unlimited access to the course material.
 Also, lecturers are experienced researchers and practitioneers with yearly experience not only on research,
 but also on actually translating research outcomes into actionable software products.
 For instance, friends from the [UMCG](https://www.umcg.nl) have collaborated with some of us in the past
-in the context of the outstanding [CONNECARE]() EU H2020 project
+in the context of the outstanding [CONNECARE]() EU H2020 project.
+
+Don't miss this great opportunity ❗️
+And 📬 [contact us](mailto:a2hc.org@gmail.com) 📬 if you need further information 😊
 
 <p style="text-align: center"> 💪 😉 Stay healthy 😉 💪 </p>
 
