@@ -34,6 +34,7 @@ For instance, friends from the [UMCG](https://www.umcg.nl) have collaborated wit
 in the context of the outstanding [CONNECARE]() EU H2020 project.
 
 Don't miss this great opportunity ❗️
+
 And 📬 [contact us](mailto:a2hc.org@gmail.com) 📬 if you need further information 😊
 
 <p style="text-align: center"> 💪 😉 Stay healthy 😉 💪 </p>
