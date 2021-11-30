@@ -1,0 +1,11 @@
+{% assign author = page.authors %}
+{% assign date = include.date | default: "today" | date: "%B %-d, %Y" %}
+
+<div class="post-info">
+    <p class="meta">
+        {{ page.authors }}
+        <br />
+        {% assign x = date | date: "%m" | minus: 1 %}
+        {{ site.data.language.str_months[x] | default: date | date: "%B" }} {{ date | date: "%d, %Y" }}
+    </p>
+</div>

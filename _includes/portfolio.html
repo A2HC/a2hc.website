@@ -1,6 +1,7 @@
-<!-- Portfolio Grid Section -->
+<!-- Portfolio Grid Section
 <div class="portfolio-grid">
-    {% for item in site.portfolio %}
+    {% assign sorted_items = site.portfolio | sort:"order" | reverse %}
+    {% for item in sorted_items %}
     <div class="portfolio-cell">
         <div style="text-align:center;"><em>{{ item.authors }}</em></div>
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
@@ -12,7 +13,30 @@
             <img alt="" class="" src="{{ item.img | relative_url }}">
             <div style="text-align:center;">{{ item.title }}</div>
         </a>
-        <!-- <div style="text-align:center;">({{ item.venue }})</div> -->
     </div>
+    {% endfor %}
+</div> -->
+
+<div class="posts">
+    {% assign sorted_items = site.portfolio | sort:"order" | reverse %}
+    {% for item in sorted_items %}
+        <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}" style="float: left">
+            <div class="caption" title="{{ item.title }}">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="{{ item.title }}" class="" src="{{ item.img | relative_url }}">
+            <!--<div style="text-align:center;">{{ item.title }}</div>-->
+        </a>
+    <strong>{{ item.title }}</strong>
+    <em>({{ item.authors }})</em>
+          {% if site.excerpt or site.theme_settings.excerpt %}
+              <div class="excerpt">
+                  {{ item.content | strip_html | truncate: '500' | escape }}
+                <a href="{{ site.baseurl }}{{ item.url }}"> [read more] </a>
+              </div>
+          {% endif %}
+    <hr>
     {% endfor %}
 </div>
