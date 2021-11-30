@@ -1,28 +1,16 @@
 ---
 layout: post
-title: "Test Augmenting BDI Agency with a Cognitive Service: Architecture and Validation in Healthcare Domain"
-authors: "Sara Montagna, Stefano Mariani, Emiliano Gamberini "
-venue: "Springer Journal of Medical Systems"
-feature-img: "assets/img/portfolio/BDI-ML-arch-generic-dark.png"
-img: "assets/img/portfolio/BDI-ML-arch-generic.png"
-thumbnail: "assets/img/portfolio/BDI-ML-arch-generic.png"
-date: 22 October 2021
-tags: [personal medical digital assistant, trauma management, cognitive services, BDI, machine learning, article, joms, Springer]
+title: "EREBOTS: Privacy-Compliant Agent-Based Platform for Multi-Scenario Personalized Health-Assistant Chatbots"
+authors: "Davide Calvaresi, Jean-Paul Calbimonte, Enrico Siboni, Stefan Eggenschwiler, Gaetano Manzo, Roger Hilfiker, and Michael Schumacher"
+venue: "MDPI Electronics"
+feature-img: "assets/img/portfolio/erebots.png"
+img: "assets/img/portfolio/erebots.png"
+thumbnail: "assets/img/portfolio/erebots.png"
+date: 09 March 2021
+tags: [chatbot, multi-agent systems, personalized virtual assistant, privacy agents, eHealth, conversational agent]
 ---
 
-Autonomous intelligent systems are starting to influence clinical practice, 
-as ways to both readily exploit experts' knowledge when contextual conditions demand so, 
-and harness the overwhelming amount of patient related data currently at clinicians' disposal. 
-However, these two approaches are rarely *synergistically* exploited, 
-and tend to be used *without integration*. 
-In this paper, we follow recent efforts reported in the literature 
-regarding **integration of BDI agency with machine learning based Cognitive Services**, 
-by proposing an integration architecture, 
-and by validating such architecture in the complex domain of **trauma management**. 
-In particular, we show that augmentation of a BDI agent, 
-endowed with predefined plans encoding experts' knowledge, 
-with a Cognitive Service, trained on past observed data, 
-can enhance trauma management by reducing over triage episodes.
+Context. Asynchronous messaging is increasingly used to support human–machine interactions, generally implemented through chatbots. Such virtual entities assist the users in activities of different kinds (e.g., work, leisure, and health-related) and are becoming ingrained into humans’ habits due to factors including (i) the availability of mobile devices such as smartphones and tablets, (ii) the increasingly engaging nature of chatbot interactions, (iii) the release of dedicated APIs from messaging platforms, and (iv) increasingly complex AI-based mechanisms to power the bots’ behaviors. Nevertheless, most of the modern chatbots rely on state machines (implementing conversational rules) and one-fits-all approaches, neglecting personalization, data-stream privacy management, multi-topic management/interconnection, and multimodal interactions. Objective. This work addresses the challenges above through an agent-based framework for chatbot development named EREBOTS. Methods. The foundations of the framework are based on the implementation of (i) multi-front-end connectors and interfaces (i.e., Telegram, dedicated App, and web interface), (ii) enabling the configuration of multi-scenario behaviors (i.e., preventive physical conditioning, smoking cessation, and support for breast-cancer survivors), (iii) online learning, (iv) personalized conversations and recommendations (i.e., mood boost, anti-craving persuasion, and balance-preserving physical exercises), and (v) responsive multi-device monitoring interface (i.e., doctor and admin). Results. EREBOTS has been tested in the context of physical balance preservation in social confinement times (due to the ongoing pandemic). Thirteen individuals characterized by diverse age, gender, and country distribution have actively participated in the experimentation, reporting advancements in the physical balance and overall satisfaction of the interaction and exercises’ variety they have been proposed.
 
-👀 📄 [Read the full paper on JOMS](https://doi.org/10.1007/s10916-021-01780-1) 
-or [request to authors a pre-print copy](mailto:stefano.mariani@unimore.it) 📬 😉
+👀 📄 [Read the full paper on JOMS](https://doi.org/10.3390/electronics10060666) 
+or [request to authors a pre-print copy](mailto:gaetano.manzo@hevs.ch) 📬 😉
