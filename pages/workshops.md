@@ -17,7 +17,7 @@ Here below is the full list of workshop editions,
 in reverse chronological order
 and with the current edition highlighted.
 
-> ⚠️ [XIV Workshop on Agents Applied in Healthcare (A2HC2022)]() (currently submitted to AAMAS 2022) ⚠️ 
+> ⚠️ [XIV Workshop on Agents Applied in Healthcare (A2HC2022)](https://a2hc.github.io/a2hc2022/) (~~currently submitted to~~accepted at AAMAS 2022!) ⚠️ 
 
 ✅ [XIII Workshop on Agents Applied in Healthcare (A2HC2021)](https://a2hc2021.github.io) (held with AAMAS 2021). Publication on the Topical Collection ["Cognitive Agents for Smart Health"](https://link.springer.com/journal/10916/topicalCollection/AC_952de16aa7d584fa382d69c1fb8dbb7f) of the Journal of Medical Systems (Springer, IF 2020: 4.460)
 
